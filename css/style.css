@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Economica:ital@1&family=Philosopher:ital@1&display=swap');
+body {
+background-color: blanchedalmond;
+}
+.heading {
+    text-align: center;
+}
+.pg{
+    color: coral;
+    font-family:'Economica', sans-serif;
+    font-size: 3rem
+}
+.main{
+    border: 2px solid brown;
+    width: 55%;
+    margin:0 auto
+    }
+.main div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid green;
+    border-radius: 50%;
+    margin: 2rem auto
+}
+
+#purple{border-color: indigo;}
+#black{border-color: black;}
+#orange{border-color: coral;}
+
+.ftr{
+    color: crimson;
+   text-align: center;
+   font-family: 'Philosopher', sans-serif;
+   font-size: 1.5rem;
+}
